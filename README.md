@@ -1,5 +1,8 @@
 # challenge-amigo-secreto_alura
 
+![Captura de pantalla 2025-03-02 a la(s) 3 47 50 p m](https://github.com/user-attachments/assets/773b5bd3-06fa-4f7f-b9f3-6b4b5840bd28)
+
+
 🌟 Objetivo del Challenge
 Es un juego social creado como un desafio donde se debe implementar un programa en la cual se permita añadir amigos, tener un listado de ellos, realizar el sorteo que nos indique quien es nuestro amigo secreto.
 
